@@ -7,4 +7,4 @@ Additionally, as I program primarily in Python, this is also an exercise to help
 - Have node installed.
 - Run mongodb and open localhost:27017 as this will be your database
 - `npm install`
-- `npm app.js`
+- `node app.js`
